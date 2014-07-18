@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Persistence</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_wish">First Wish</string>
+    <string name="second_wish">Second Wish</string>
+    <string name="third_wish">Third Wish</string>
+
+</resources>
